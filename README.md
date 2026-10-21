@@ -1,5 +1,5 @@
 # qr-product-management
-Vehicle identification &amp; tracking web application powered by QR codes.
+QR code generation and physical product tracking management dashboard.
 # 📦 QR Code Physical Product Management System
 
 Fiziksel envanter, stok ve depo yönetimini QR kodlar ile dijitalleştiren etkileşimli takip ve kontrol paneli.
